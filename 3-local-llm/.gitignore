@@ -1,0 +1,9 @@
+constants.py
+__pycache__
+persist/
+.DS_Store
+.chroma/
+venv
+.env
+.venv
+.DS_Store
