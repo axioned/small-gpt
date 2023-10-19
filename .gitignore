@@ -3,3 +3,4 @@ venv
 __pycache__
 .DS_Store
 2-private-GPT/models/*
+source_documents/*
